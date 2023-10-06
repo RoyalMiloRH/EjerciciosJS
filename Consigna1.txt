@@ -1,0 +1,10 @@
+Ejercicio Practico
+
+Un restaurante esta a punto de calcular la cuenta de un comensal (cliente), al cual se le suma por separado $2800 + $1300 de comida y $900 + $650 de bebida.
+
+Crear un programa en Javascript que calcule el total de comida, el total de bebida y el total completo de la cena. Informar el resultado por consola o por un cartel de alerta 
+
+Tener en cuenta lo siguiente:
+
+Importar el archivo JS desde una pagina HTML
+Abrir el archivo HTML en el navegador y mostrar el resultado con un console.log() o un alert().
